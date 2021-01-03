@@ -7,8 +7,6 @@ I'm Abhinav :nerd_face:
 - 💬 I'm also a part-time web developer.
 - 💬 Also a part-time UI designer.
 - 😄 Sometimes does freelance to add some pennies.
-<p
-![](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
- align="center">
- </p>
 
+
+<img align="center"  src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
