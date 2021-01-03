@@ -8,5 +8,5 @@ I'm Abhinav :nerd_face:
 - 💬 Also a part-time UI designer.
 - 😄 Sometimes does freelance to add some pennies.
 
-![](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/source.gif)
+![](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
