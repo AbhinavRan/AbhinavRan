@@ -8,5 +8,5 @@ I'm Abhinav :nerd_face:
 - 💬 Also a part-time UI designer.
 - 😄 Sometimes does freelance to add some pennies.
 
-[GitHub Logo](/images/https://dribbble.com/shots/4323685--Rainbows-Everywhere)
+e3c17822199061a3f3a9af3056e3f405.gif
 
