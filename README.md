@@ -9,4 +9,7 @@ I'm Abhinav :nerd_face:
 - 😄 Sometimes does freelance to add some pennies.
 
 
-<img align="center"  src="https://media.tenor.com/images/a21260c40e92f56f22e72e161543cbd9/tenor.gif">
+<img align="right"  src="https://media.tenor.com/images/a21260c40e92f56f22e72e161543cbd9/tenor.gif">
+<img align="left"  src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
+
+
