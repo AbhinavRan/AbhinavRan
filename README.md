@@ -14,6 +14,4 @@
 
 <img align="right"  src="https://media.tenor.com/images/a21260c40e92f56f22e72e161543cbd9/tenor.gif">
 
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/32fc086a/Archslate)
-
 
