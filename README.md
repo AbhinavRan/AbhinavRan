@@ -12,6 +12,6 @@
 
 
 
-<img align="right"  src="https://media.tenor.com/images/a21260c40e92f56f22e72e161543cbd9/tenor.gif">
+<img align="center"  src="https://media.tenor.com/images/a21260c40e92f56f22e72e161543cbd9/tenor.gif">
 
 
