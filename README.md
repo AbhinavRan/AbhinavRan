@@ -8,7 +8,7 @@
 - 💬 Also a part-time UI designer.
 - 😄 Sometimes does freelance to add some pennies.
 
-  <img align="left"  src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif">
+  
 
 
 
